@@ -1,0 +1,7 @@
+function quatre()
+	return 2+2
+end
+
+main
+	write quatre()
+end
